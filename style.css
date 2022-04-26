@@ -1,0 +1,52 @@
+#contact iframe
+{
+    width: 100%;
+}
+
+.contact_1 img{
+    border-radius:40%;
+    margin-bottom: 50px;
+    border:3px solid rgb(6, 24, 24);
+}
+
+body{
+    background-color: rgba(203, 242, 228, 0.973);
+   
+}
+
+.travel_mainDiv{
+border:1px solid rgb(0, 255, 255);  
+}
+
+.travel_mainDiv img{
+width:100%;
+}
+
+.travel_mainDiv h5 , .travel_mainDiv p{
+    margin: 20px;
+}
+
+h4{
+    color:rgb(195, 105, 212);
+}
+.movie_head{
+ font-size: 20px;
+ padding: 6px 20px;
+ border-radius: 10pc;
+ margin-bottom: 15px;
+}
+.movie_head i{
+    float: right;
+}
+.movie_text span {
+     color:blueviolet;
+}
+
+
+
+
+
+
+
+
+
